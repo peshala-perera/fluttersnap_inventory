@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789274744362",
+    "project_id": "fluttersnap-inventory-2fb87",
+    "storage_bucket": "fluttersnap-inventory-2fb87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789274744362:android:11bd8b99b4b0326f575553",
+        "android_client_info": {
+          "package_name": "com.example.fluttersnap_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFnKIk3PO_PFXPE_dcrmyv-xWj05boSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789274744362:android:a7018305df7dd450575553",
+        "android_client_info": {
+          "package_name": "com.peshalasperera.fluttersnapinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFnKIk3PO_PFXPE_dcrmyv-xWj05boSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
